@@ -6,7 +6,7 @@ A little bit about myself:
 - 🌱 I’m currently learning python and SASS/SCSS📫
 - 📫 How to reach me: [linkedin](www.linkedin.com/in/kennedy-crispim)
 
-[Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kennedycrispim/kennedycrispim/blob/output/github-contribution-grid-snake.svg)
 <!--
 **kennedycrispim/kennedycrispim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
