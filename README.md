@@ -3,7 +3,7 @@
 My name is Kennedy, I'm a programming student looking for a new opportunity in the area as a trainee or junior position full stack.
 Feel free to take a look in my repositiories.
 A little bit about myself:
-- 🌱 I’m currently learning python and SASS/SCSS📫
+- 🌱 I’m currently learning python, java and SASS/SCSS📫
 - 📫 How to reach me: [linkedin](www.linkedin.com/in/kennedy-crispim)
 
   
