@@ -6,7 +6,15 @@ A little bit about myself:
 - 🌱 I’m currently learning python and SASS/SCSS📫
 - 📫 How to reach me: [linkedin](www.linkedin.com/in/kennedy-crispim)
 
-![Snake animation](https://github.com/kennedycrispim/kennedycrispim/blob/output/github-contribution-grid-snake.svg)
+  
+## 🚀 Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
+          
+          
+          
+          
+          
+          
 <!--
 **kennedycrispim/kennedycrispim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
