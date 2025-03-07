@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Kennedy, I'm a programming student looking for a new oportunity in the area as an trainee or junior position full stack.
+My name is Kennedy, I'm a programming student looking for a new opportunity in the area as a trainee or junior position full stack.
 Feel free to take a look in my repositiories.
 A little bit about myself:
 - 🌱 I’m currently learning python and SASS/SCSS📫
