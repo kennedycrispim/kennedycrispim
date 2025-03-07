@@ -5,6 +5,7 @@ Feel free to take a look in my repositiories.
 A little bit about myself:
 - 🌱 I’m currently learning python, java and SASS/SCSS📫
 - 📫 How to reach me: [linkedin](www.linkedin.com/in/kennedy-crispim)
+- 🌐 [Portfólio](https://kennedycrispim.com.br/)
 
   
 ## 🚀 Skills
